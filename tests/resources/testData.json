@@ -1,0 +1,15 @@
+{
+    "username": "testuserAmer3@example.com",
+    "password": "Aanl12&hg@",
+    "itemName": "Android Quick Start Guide",
+    "itemPrice": "₹450.00",
+    "billingDetails": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main St",
+      "city": "Cairo",
+      "postcode": "12345",
+      "phone": "0123456789",
+      "email": "john.doe@example.com"
+    }
+  }
